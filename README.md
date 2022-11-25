@@ -41,7 +41,7 @@
 
 <p  align="left">
 
-<a  href="https://instagram.com/kunal.senn"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="prankush1999"  height="30"  width="40"  /></a>
+<a  href="https://www.instagram.com/thedragonsword/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="prankush1999"  height="30"  width="40"  /></a>
 
 
 
